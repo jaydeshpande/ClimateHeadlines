@@ -1,11 +1,11 @@
 # Site settings
 title_left    : "Climate"
 title_right   : "Headlines" # default: ""
-description   : "Climate change headlines from ClubHouse"
-keywords      : "climate, carbon dioxide, climate change, headlines, daily"
+description   : "Climate change headlines from Clubhouse"
+keywords      : "climate, carbon dioxide, climate change, green house gases, headlines, daily"
 url           : "https://climateheadlines.club" # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
-cover         : "logo.PNG" # image uri like logo/cover image for site seo
+cover         : "./logo.PNG" # image uri like logo/cover image for site seo
 
 google_analytics  : UA-XXXXX-XX
 twitter_username  : ""
