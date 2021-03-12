@@ -100,10 +100,10 @@ hr {
 
 .logo {
   float: left;
-  margin: 0 0 1em 0;
+  margin: 0 0 0 0;
   cursor: pointer;
-  letter-spacing: 0.8px;
-  font-size: 20px;
+  letter-spacing: 0.3px;
+  font-size: 18px;
   line-height: 28px;
   font-weight: 300;
 
@@ -113,7 +113,7 @@ hr {
 }
 
 .nav {
-  min-height: 64px;
+  min-height: 50px;
 }
 
 .navbar {
@@ -126,7 +126,7 @@ hr {
 
   li {
     display: inline-block;
-    padding: 0 .1em;
+    padding: 0 .01em;
   }
 
   a {
