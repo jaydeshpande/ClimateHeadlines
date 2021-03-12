@@ -39,8 +39,8 @@ plugins:
 navbar:
   - slug : about
     title: About
-  - slug : references
-    title: References
+  - slug : resources
+    title: Resources
 
 exclude:
   - "gulp"
