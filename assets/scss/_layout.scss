@@ -70,6 +70,27 @@ hr {
   }
 }
 
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+// .row {
+//   display: flex;
+// }
+
+// .column {
+//   flex: 50%;
+// }
+
 .screen .main {
   width: 100%; /* <--now this takes full browser dimension  */
   height: 100%; /* <--now this takes full browser dimension  */
